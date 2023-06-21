@@ -52,6 +52,14 @@ curl -L http://3.88.8.244
 http://3.88.8.244
 
 
+=========================================================
+
+# PART-3 = CodePipleline Automation
+# create pipeline
+# poll for source changes = true
+https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/CI-CD/view?region=us-east-1
+
+
 
 
 
